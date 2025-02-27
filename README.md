@@ -13,4 +13,5 @@
 
 **4) OSI MODEL**
 ![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/3dbbb8c59aa6c222d1d92faa9b46378009468b8c/Screenshot%202025-02-27%20230548.png)
+![image alt]
 
