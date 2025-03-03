@@ -16,5 +16,5 @@
 ![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/457c07b1b47f079cf60f99cae36567fe5e795c20/Screenshot%202025-02-28%20002036.png)
 
 **5) OSI MODEL VS TCP/1P SUITE**
-![image alt](
+![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/90cf00657e39d0bb8b64e0edbb044b27f5e74807/Screenshot%202025-03-03%20182830.png)
 
