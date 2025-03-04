@@ -19,5 +19,5 @@
 ![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/90cf00657e39d0bb8b64e0edbb044b27f5e74807/Screenshot%202025-03-03%20182830.png)
 
 **6) CISCO CLI Operations/Device Security**
-![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/3db23f88b9c89c6960c720f5ba51069a00de9b9c/Screenshot%202025-03-04%20190356.png)
+![image alt](
 
