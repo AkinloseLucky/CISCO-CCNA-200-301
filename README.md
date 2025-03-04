@@ -18,3 +18,6 @@
 **5) OSI MODEL VS TCP/1P SUITE**
 ![image alt](https://github.com/AkinloseLucky/CISCO-CCNA-200-301/blob/90cf00657e39d0bb8b64e0edbb044b27f5e74807/Screenshot%202025-03-03%20182830.png)
 
+**6) CISCO CLI Operations
+![image alt](
+
